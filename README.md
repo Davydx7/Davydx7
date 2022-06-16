@@ -37,10 +37,14 @@ Found of Logic, reasoning and Understanding how my deps work 'under the hood'
 🟢 Freelance Collaboration on Short to long term one-off Projects  
 🟢 Opensource contributions  
 🟢 Website/app Design files to Frontend code
-<!--
+
 ### Contact me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/olufemi_david11)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidolufemi/)  
+<a href="mailto:oludave0511@gmail.com"> Email </a>
 
 
+<!--
 
 
 **Davydx7/Davydx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
