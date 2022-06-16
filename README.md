@@ -3,7 +3,7 @@
 
 ### About Me
 A ReactTs Developer making the DevWorld a little better place one project at a time!  
-Found of Logic, reasoning and Understanding how my deps work 'under the hood'  
+Found of Logic, reasoning and Understanding how my deps work 'under the hood' 
 🔹 Fundamentals is Key  
 🔹 The documentation good? I'm good!  
 🔹 Clean and simple Logic is Good Code
@@ -29,6 +29,7 @@ Found of Logic, reasoning and Understanding how my deps work 'under the hood'
 | HTML5 | no |
 | API | integrations |
 | JamStack | Frontend to HeadlessCMS |
+| 🔴Figma | Design-Dev collab |
 </details>  
 
 
