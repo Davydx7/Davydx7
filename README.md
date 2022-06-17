@@ -40,9 +40,10 @@ Found of Logic, reasoning and Understanding how my deps work 'under the hood'
 🟢 Website/app Design files to Frontend code
 
 ### Contact me
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Folufemi_david11)](https://twitter.com/olufemi_david11)  
-[![LinkedIn](https://img.shields.io/twitter/url?label=LinkedIn&logo=h&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidolufemi%2F)](https://www.linkedin.com/in/davidolufemi/)  
+<a href="https://twitter.com/olufemi_david11"> <img alt="Twitter" src="https://img.shields.io/twitter/url?color=blue&label=Email&logo=h&logoColor=yellow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidolufemi%2F"> </a>
+<a href="https://www.linkedin.com/in/davidolufemi/"> <img alt="Mail" src="https://img.shields.io/twitter/url?color=blue&label=Email&logo=h&logoColor=yellow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidolufemi%2F"> </a>
 <a href="mailto:oludave0511@gmail.com"> <img alt="Mail" src="https://img.shields.io/twitter/url?color=blue&label=Email&logo=h&logoColor=yellow&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavidolufemi%2F"> </a>
+
 
 
 <!--
