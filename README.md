@@ -1,6 +1,9 @@
 # Hello! :octocat:
 ## Welcome to my Repository
 
+  ![Rash' GitHub stats](https://github-readme-stats.vercel.app/api?username=Davydx7&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davydx7&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About Me
 A ReactTs Developer making the DevWorld a little better place one project at a time!  
 Found of Logic, reasoning and Understanding how my deps work 'under the hood' 
