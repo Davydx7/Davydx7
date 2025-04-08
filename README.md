@@ -20,7 +20,7 @@ I'm a result-driven front-end developer with 5+ years of professional experience
 ### 🧠 Engineering Philosophy
 
 💡 **Build with clarity** – Code should be easy to reason about, modify, and extend  
-🧭 **Plan as an architect** – Define intent and structure implementation and execution
+🧭 **Plan as an architect** – Define intent and structure implementation and execution  
 🔧 **Know your tools** – Deep understanding of frameworks and packages you rely on  
 🤝 **Collaborate deeply** – Align tech with business needs, user impact, and product goals  
 
