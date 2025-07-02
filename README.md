@@ -48,9 +48,6 @@ I'm a result-driven front-end developer with 5+ years of professional experience
 - I write clear specs and documentation for both developers and users alike use
 - I enjoy team work, boost team productivity
 
----
-
-Let’s build something impactful together.
 
 
 
